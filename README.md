@@ -10,4 +10,4 @@ d. Which asynchronous style do you prefer callbacks, promises, async/await and
 why?
 async/await because personally it just seems easier to grasp and code
 e. What do you think the key differences are between CommonJS and ES6 Modules 
-are?Es6 makes "predictions" while commonjs "forces" it so it can work
+are?Es6 makes "predictions" while commonjs "forces" it so it can work.
